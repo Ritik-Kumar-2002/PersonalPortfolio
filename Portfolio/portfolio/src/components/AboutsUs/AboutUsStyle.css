@@ -1,0 +1,19 @@
+.AboutUsHeading{
+    text-align: center;
+    font-family:'sans-serif';
+}
+.LinkWrap{
+    border: 0px solid blue;
+    padding: 1.2rem;
+    border-radius: 50px 50px 50px 50px;
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}
+.MainHeading{
+    color:rgb(37, 10, 102);
+    font-family: 'Times New Roman', Times, serif;
+}
+.subHeading1{
+    color: rgb(71, 34, 157);
+}

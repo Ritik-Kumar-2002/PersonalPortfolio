@@ -1,0 +1,40 @@
+.box{
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    padding: 1rem;
+    min-height: 100vh;
+}
+.LinkWrap{
+    border: 0px solid blue;
+    padding: 1.2rem;
+    border-radius: 50%;
+    border-radius: 50px 50px 50px 50px;
+    /* margin: auto; */
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}
+.Icons{
+    border-radius: 50% 50% 50% 50%;
+    border: 2px solid black;
+    padding: 1.5rem;
+}
+.Icons:hover{
+    background-color: rgb(5, 28, 55);
+    color: white;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.ContactDetail{
+    padding: 0.5rem 1rem;
+    text-align: center;
+}
+.ContactLinks{
+    padding: 0.5rem 1rem;
+    text-align: center;
+}
+.ContactLinks:hover{
+    color: rgb(64, 64, 219);
+    cursor: pointer;
+} 

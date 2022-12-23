@@ -1,0 +1,14 @@
+.App{
+  min-height: 100vh;
+  font-family: 'Signika Negative', sans-serif;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+.Icons{
+  border: '1px solid black';
+  padding: '1.5rem';
+  border-radius: '50%';
+}
